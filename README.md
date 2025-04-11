@@ -37,6 +37,23 @@ A low-power, long-range, and secure GPS tracking system built using **ESP32**, *
 
 ---
 
+## 🛠️ Hardware Setup
+
+### Transmitter Module
+![Transmitter Setup](Images/Transmitter.jpg)
+
+### Receiver Module
+![Receiver Setup](Images/Receiver.jpg)
+
+---
+
+## Live Location on Google Maps
+
+The received and decrypted GPS data is visualized in real time using the Google Maps JavaScript API.
+
+![Google Maps Output](Images/output.png)
+
+
 ## 🚀 Future Enhancements
 
 - [ ] Real-time updates using WebSockets  
