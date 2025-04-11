@@ -40,10 +40,10 @@ A low-power, long-range, and secure GPS tracking system built using **ESP32**, *
 ## 🛠️ Hardware Setup
 
 ### Transmitter Module
-![Transmitter Setup](Images/Transmitter.jpg)
+![Transmitter Setup](Images/Transmitter.png)
 
 ### Receiver Module
-![Receiver Setup](Images/Receiver.jpg)
+![Receiver Setup](Images/Receiver.png)
 
 ---
 
